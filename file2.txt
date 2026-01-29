@@ -1,10 +1,7 @@
 Today is a good day
 Tommorow is friday and everything is good
 Thanking God for everything
-<<<<<<< HEAD
 Thanks for coming today.
 God bless you.
-Thanks to God
-=======
-Thanks
->>>>>>> d79dcbb (please check this 2)
+It is well
+
